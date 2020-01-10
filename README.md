@@ -17,5 +17,5 @@ Game C++: Catching Fruit: (Visual Studio 2017)
    - main.cpp: hàm xử lý chính, gồm: hàm menu, hàm gameover, xử lý di chuyển đối tượng chạy qua lại, ghi điểm số.
 2, Mô tả
 * Menu
-![Image description](Desktop/main.png)
+![Image description](/Desktop/main.png)
  
