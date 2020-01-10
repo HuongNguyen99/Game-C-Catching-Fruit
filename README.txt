@@ -1,16 +1,17 @@
-Game Catching Fruit: (Visual Studio 2017)
+Game C++: Catching Fruit: (Visual Studio 2017)
 
-1, Cac chuc nang chinh
-* Luat choi:
-  - Di chuyen ech de an hoa qua roi
-  - An hoa qua +1 diem, an ong sao +5 diem
-  - An bom se game over
-  - An kh�ng trung 3 qua se game over 
-  - An kh�ng trung ong sao cung kh�ng sao
+* Luật chơi:
+  - Di chuyển ếch để ăn hoa quả rơi
+  - Ăn hoa quả +1 điểm, ăn ngôi sao +5 điểm
+  - Đụng phải bom sẽ game over
+  - Bỏ sót 3 hoa quả  sẽ game over 
+  - Bỏ sót ngôi sao không bị trừ điểm
 
-* Gom 4 module v� main.cpp:
-   - (game.h , game.cpp): khoi tao c�c doi tuong bien chung v� c�c ham chung
-   - (BaseObject.h, BaseOject.cpp): c�c ham co so cho doi tuong
-   - (MainObject.h, MainObject.cpp): khoi tao cac thong so cua doi tuong chinh, dung class, c�c ham di chuyen
-   - (FruitObject.h. FruitObject.cpp): khoi tao c�c thong so cua hoa qua, dung class, c�c ham di chuyen, reset qua, toc do qua
-   - main.cpp: ham menu, ham gameover, xu li di chuyen �oi tuong, chay qua, ghi diem so
+* Gồm 4 module và main.cpp:
+   - (game.h , game.cpp): Khởi tạo các đối tượng biến chung và các hàng chung
+   - (BaseObject.h, BaseOject.cpp): các hàm cơ sở cho đối tượng
+   - (MainObject.h, MainObject.cpp): khởi tạo các thông số của đối tượng chính (ếch), các hàm di chuyển của đối tượng chính, dùng class
+   - (FruitObject.h. FruitObject.cpp): khởi tạo các thông số của đối tượng hoa quả, các hàm rơi, tốc độ rơi, reset hoa quả, dùng class
+   - main.cpp: hàm xử lý chính, gồm: hàm menu, hàm gameover, xử lý di chuyển đối tượng chạy qua lại, ghi điểm số.
+
+ 
