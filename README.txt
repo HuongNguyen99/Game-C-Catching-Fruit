@@ -1,5 +1,5 @@
 Game C++: Catching Fruit: (Visual Studio 2017)
-
+* Sử dụng thư viện SDL
 * Luật chơi:
   - Di chuyển ếch để ăn hoa quả rơi
   - Ăn hoa quả +1 điểm, ăn ngôi sao +5 điểm
