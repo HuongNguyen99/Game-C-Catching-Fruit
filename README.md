@@ -1,4 +1,4 @@
-Game C++: Catching Fruit: (Visual Studio 2017)
+<h2>Game C++: Catching Fruit </h2> (Visual Studio 2017)
 
 1, Tổng quan
 * Sử dụng thư viện SDL
