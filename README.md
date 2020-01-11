@@ -1,8 +1,8 @@
 <h2>Game C++: Catching Fruit </h2> (Visual Studio 2017)
 
 1, Tổng quan
-* Sử dụng thư viện SDL
-  - đọc huongdancaidat.txt để cài đặt thư viện SDL vào Visual Studio
+* Sử dụng thư viện SDL:
+  - đọc "Huongdancaidat.txt" để cài đặt thư viện SDL vào Visual Studio
 * Luật chơi:
   - Di chuyển ếch để ăn hoa quả rơi
   - Ăn hoa quả +1 điểm, ăn ngôi sao +5 điểm
@@ -16,6 +16,7 @@
    - (MainObject.h, MainObject.cpp): khởi tạo các thông số của đối tượng chính (ếch), các hàm di chuyển của đối tượng chính, dùng class
    - (FruitObject.h. FruitObject.cpp): khởi tạo các thông số của đối tượng hoa quả, các hàm rơi, tốc độ rơi, reset hoa quả, dùng class
    - main.cpp: hàm xử lý chính, gồm: hàm menu, hàm gameover, xử lý di chuyển đối tượng chạy qua lại, ghi điểm số.
+   
 2, Mô tả
 * Menu
   <td><img src="/Catching%20Fruit/main.PNG" width="300"></td>
