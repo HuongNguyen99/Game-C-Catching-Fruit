@@ -18,8 +18,8 @@
    - main.cpp: hàm xử lý chính, gồm: hàm menu, hàm gameover, xử lý di chuyển đối tượng chạy qua lại, ghi điểm số.
 2, Mô tả
 * Menu
-<img src="/Catching%20Fruit/main.PNG" width="300">
+  <td><img src="/Catching%20Fruit/main.PNG" width="300"></td>
 * Màn hình chơi
-<img src="/Catching%20Fruit/main1.png" width="300"><img src="/Catching%20Fruit/main2.png" width="300">
+  <td><img src="/Catching%20Fruit/main1.png" width="300">             <img src="/Catching%20Fruit/main2.png" width="300"></td>
 * Game over
-<img src="/Catching%20Fruit/gameover.png" width="300">
+  <td><img src="/Catching%20Fruit/gameover.png" width="300"></td>
