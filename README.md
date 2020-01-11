@@ -19,6 +19,7 @@
    
 2, Mô tả
 * Menu
+
   <td><img src="/Catching%20Fruit/main.PNG" width="300"></td>
 * Màn hình chơi
   <td><img src="/Catching%20Fruit/main1.png" width="300">             <img src="/Catching%20Fruit/main2.png" width="300"></td>
